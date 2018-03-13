@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="TrainingDetails-Web.config Connection String" description="TrainingDetails Connection String used in web.config by the application to access the database." defaultValue="Data Source=.\sqlexpress;Initial Catalog=Feedback;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\navyashree\.cv\\source\\repos\\SurveyForm\\SurveyForm\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='TrainingDetails']/@connectionString" />
+  </parameter>
+</parameters>
